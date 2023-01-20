@@ -1,0 +1,22 @@
+{
+  "name": "node-mongoose-crud",
+  "version": "1.0.0",
+  "description": "This is a dummy project to create crud operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alt-MosesMj/node-mongoose-crud.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "MosesMj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alt-MosesMj/node-mongoose-crud/issues"
+  },
+  "homepage": "https://github.com/Alt-MosesMj/node-mongoose-crud#readme"
+}
